@@ -1,0 +1,14 @@
+Links usados:
+
+1-A: https://en.wikipedia.org/wiki/Second_and_Third-class_facilities_on_the_RMS_Titanic
+2-B: https://en.wikipedia.org/wiki/First_class_facilities_of_the_RMS_Titanic#/media/File:Titanic_cutaway_diagram.png
+
+
+Extra classes:
+
+2-A: https://www.udemy.com/learning-python-for-data-analysis-and-visualization
+2-B: https://www.dataquest.io/m/8/introduction-to-pandas
+
+Links de ajuda:
+
+3-A: http://matplotlib.org/api/figure_api.html
